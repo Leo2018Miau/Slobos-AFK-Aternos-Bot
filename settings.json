@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Leo2017Miau-PHPJ.aternos.me:11177",
+    "port": 11177,
     "version": "",
     "try-creative": false
   },
